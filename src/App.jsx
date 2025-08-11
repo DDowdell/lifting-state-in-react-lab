@@ -1,5 +1,3 @@
-// src/App.jsx
-
 import './App.css';
 import React, {useState} from 'react';
 import IngredientList from './components/IngredientList/IngredientList.jsx';
